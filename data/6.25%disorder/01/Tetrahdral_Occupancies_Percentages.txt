@@ -1,0 +1,6 @@
+Site	Type1	Type2	Type3	Type4	Type5	#So to say two different 'perspectives' (from 4a and 4d sites)
+S_4d	0.031	16.018	.	.	78.594
+Br_4d	0.000	1.672	.	.	3.464
+S_4a	.	2.073	.	0.099	5.074
+Br_4a	.	15.617	.	0.045	77.139
+Total	0.031	17.690	0.000	0.144	82.135

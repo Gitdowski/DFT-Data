@@ -1,0 +1,6 @@
+Type	S_4d	Br_4d	S_4a	Br_4a	Total	#So to say two different 'perspectives' (from 4a and 4d sites)
+Type1	0.059	0.007	.	.	0.066
+Type2	16.373	1.280	2.017	15.636	17.653
+Type3	.	.	.	.	0.000
+Type4	.	.	0.023	0.087	0.110
+Type5	78.361	3.743	5.548	76.691	82.171

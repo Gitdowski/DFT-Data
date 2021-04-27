@@ -1,0 +1,6 @@
+Type	S_4d	Br_4d	S_4a	Br_4a	#So to say two different 'perspectives' (from 4a and 4d sites)
+Type1	0.002	0.000	.	.	
+Type2	0.892	0.000	0.000	0.892	
+Type3	.	.	.	.	
+Type4	.	.	0.000	0.001	
+Type5	5.106	0.000	0.000	5.101	
