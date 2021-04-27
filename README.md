@@ -15,5 +15,4 @@ OVITO Pro (https://www.ovito.org/) and its python interface has been used to ana
 
 1. Li_density_ovito3.py: This script reads the XDATCAR files and computes time-averaged Li densities based on a user-defined grid. The output is an xyz file (Li_density.xyz) containing the coordinates of the grid point and the corresponding Li density. 
   
-2. Li_tetra_type.py: This file uses the POSCAR file in order to determine the distribution of S and Br atoms in the structure first. Afterwards it reads the previously generated Li_density.xyz file and determines the Li occupation of T1, T2, T3, T4 and T5 sites.
-
+2. Li_tetra_type.py: This file uses the POSCAR file in order to determine the distribution of S and Br atoms in the structure first. Afterwards it reads the previously generated Li_density.xyz file and determines the Li occupation of tetrahedral T1, T2, T3, T4 and T5 sites. The results are found in the Tetrahdral_Occupancies_* files.
